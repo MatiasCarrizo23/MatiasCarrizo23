@@ -14,13 +14,9 @@ If you share my passion for technology, programming, and innovation, I'm excited
 ### My areas of expertise include:
 
 - Full Stack Programming 🌐
+- Python, Java, JavaScript, HTML, CSS, PHP, MySQL, PostgreSQL, etc.
 - User Experience Design (UX/UI) 🎨
 - Agile Methodologies 🚀
-- Agile Leadership 🤝
 - Project Management 📊
-- Software Repair on Devices 📱💻
-- Data Migration on Mobile and PC 🔄
-- Assembly and Repair of Diverse Devices 🛠️
-- Operating System (OS) Installation 💿
 
 Thanks for visiting my GitHub space! I look forward to the opportunity of learning, growing, and collaborating together! 😊
